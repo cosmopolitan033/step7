@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  ChildFrm.cpp
+  DirSoundSource.cpp
+  GrImage.cpp
+  LineDlg.cpp
+  MainFrm.cpp
+  MovieMake.cpp
+  MovieSource.cpp
+  RotoScope.cpp
+  RotoScopeDoc.cpp
+C:\Users\Administrator\Desktop\step7\RotoScope\RotoScopeDoc.cpp(875,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/RotoScopeDoc.cpp')
+  
+  RotoScopeView.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1318 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RotoScope.vcxproj -> C:\Users\Administrator\Desktop\step7\Release\RotoScope.exe

@@ -1,0 +1,5 @@
+﻿  RotoScopeDoc.cpp
+C:\Users\Administrator\Desktop\step7\RotoScope\RotoScopeDoc.cpp(875,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MovieMake.cpp
+  Generating Code...
+  RotoScope.vcxproj -> C:\Users\Administrator\Desktop\step7\Debug\RotoScope.exe
